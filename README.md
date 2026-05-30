@@ -1,4 +1,3 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Satyam Swaraj
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Java+Developer;Problem+Solver;Future+Software+Engineer;Welcome+To+My+GitHub+Profile+🚀" />
@@ -46,13 +45,6 @@ public class SatyamSwaraj {
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,php,mysql,mongodb,nodejs,react,git,github,vscode&perline=7"/>
-
-</p>
 
 ---
 
