@@ -19,7 +19,7 @@ javascript - ---  .js
 very important  - thing is that the name of the file should be same as the name of the class which is public.
 
 container dabba ;
-
+d
 numbers === 233, 3,2323, 2 ,3333333333333333333,   === (int  === integer )  === size(4 bytes)
 
 , letter ==  s , d A to z ==  (char  ==   characters) ==== size(2bytes )
@@ -58,7 +58,6 @@ add() -- add function
 
 
 class file2{
-
 public static void main(String[]  args){ 
     
     
