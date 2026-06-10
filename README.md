@@ -1,4 +1,4 @@
-                                                                                              
+                                                                                                
                                       
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Java+Developer;Problem+Solver;Future+Software+Engineer;Welcome+To+My+GitHub+Profile+🚀" />
@@ -66,7 +66,7 @@ public class SatyamSwaraj {
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
