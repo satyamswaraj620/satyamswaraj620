@@ -1,83 +1,94 @@
-//---comment -> yaha se gadbad hai dekhlo
-//-- yaha  pe se kam susur krna tha 
-/*    multi line comment */ 
+// //---comment -> yaha se gadbad hai dekhlo
+// //-- yaha  pe se kam susur krna tha 
+// /*    multi line comment */ 
 
-// -  single line comment
+// // -  single line comment
 
-/*
-c ---    .c               (extension)   .txt = textfile    .java = javafile  phopts -- jpg 
-                            png  -- image file    music file - mp3  
-cpp   .cpp
+// /*
+// c ---    .c               (extension)   .txt = textfile    .java = javafile  phopts -- jpg 
+//                             png  -- image file    music file - mp3  
+// cpp   .cpp
 
-java  .java
-python - - .py
-javascript - ---  .js
+// java  .java
+// python - - .py
+// javascript - ---  .js
 
-1  1 oil --- 
-10  sugar 
+// 1  1 oil --- 
+// 10  sugar 
 
-very important  - thing is that the name of the file should be same as the name of the class which is public.
+// very important  - thing is that the name of the file should be same as the name of the class which is public.
 
-container dabba ;
-d
-numbers === 233, 3,2323, 2 ,3333333333333333333,   === (int  === integer )  === size(4 bytes)
+// container dabba ;
+// d
+// numbers === 233, 3,2323, 2 ,3333333333333333333,   === (int  === integer )  === size(4 bytes)
 
-, letter ==  s , d A to z ==  (char  ==   characters) ==== size(2bytes )
- name  === shivam , swraj ,satyam, shivamswrrajsatysjs ===
+// , letter ==  s , d A to z ==  (char  ==   characters) ==== size(2bytes )
+//  name  === shivam , swraj ,satyam, shivamswrrajsatysjs ===
 
- decimal == 4.4 ,4.6 ,75433333.833333333 = === (double) == size(8 bytes);
+//  decimal == 4.4 ,4.6 ,75433333.833333333 = === (double) == size(8 bytes);
  
- word = shivam  == (string ) == size(4)
- sentence  == =  This is my name  my name iss shivam ===
+//  word = shivam  == (string ) == size(4)
+//  sentence  == =  This is my name  my name iss shivam ===
 
- true or false ====   boolean (bool)  true ==  1 , false == 0
+//  true or false ====   boolean (bool)  true ==  1 , false == 0
 
 
-             -------------------- datatypes---------------
- integer(int)
-string,
-character (char),
-double ,,,,,
-*******
-float,short,long, 
+//              -------------------- datatypes---------------
+//  integer(int)
+// string,
+// character (char),
+// double ,,,,,
+// *******
+// float,short,long, 
    
-compile --- 
+// compile --- 
 
-run -- 
+// run -- 
  
-() - parenthesis;
- {} -- curly braket--braces;
-[] - square bracket;
+// () - parenthesis;
+//  {} -- curly braket--braces;
+// [] - square bracket;
 
-satyam() ---  function
-main() -- main function --  ()
-add() -- add function
-
-
- */
+// satyam() ---  function
+// main() -- main function --  ()
+// add() -- add function
 
 
-class file2{
-public static void main(String[]  args){ 
+//  */  
+// //My name is satyam  == satyam store in variable  
+// // i am in class 12 in ccds school  ==  12 variable  , ccds == variable
+// // and i leave in patna == patna store variable  }  variable should have meaning ful name    
+
+// //experiment nhi 
+
+
+
+// class file2{
+
+// public static void main(String[]  args){ 
     
-    
+//   String name = "shivam";
+//  // int class = 12; // why in this line the red alert is showing..? reason
+//  // String schoolname = "CCDS";
+  
+//  // System.out.print("My name is " + name);
        
-     /*    System.out.print(" ");  
-System.out.print(" ");  
+//      /*    System.out.print(" ");  
+// System.out.print(" ");  
 
-System.out.print(" ");     
+// System.out.print(" ");     
 
-System.out.print(" ");  
+// System.out.print(" ");  
 
-System.out.print(" ");    */
-
-
-System.out.print(" satyam saraj ");
+// System.out.print(" ");    */
 
 
+// System.out.print(" satyam saraj ");
 
 
 
-}
 
-}
+
+// }
+
+// }
