@@ -1,4 +1,4 @@
-                 
+                       
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
                                       
 <p align="center">
@@ -22,7 +22,7 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```java
-public class Satyam {
+public class Satyam swaraj {
 
     String role = "Java Developer";
     String education = "Computer Science Student";
