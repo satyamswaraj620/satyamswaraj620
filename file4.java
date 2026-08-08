@@ -23,7 +23,7 @@ int size ==   4 bytes   1 bytes === 8bits    4 * 8 = 32 bits      01101010101010
 2222222222222222  
 2 == 
 2 = 010
--2 = 110     2 - 2==  4    1010 = 4   32-1 = plus/minus   sign bit 2^31 or minus 
+-2 = 110     2 - 2==  4    1010 = 4   32-1 = plus/minus   sign bit 2^31 or 
 binary base ==  natural no to binary ==  base 2           4/2 = 
 decimal base = 10;    18/10 =  1.8
 code compile  language java ka isko 2  = 10   binary numbers   0101010
