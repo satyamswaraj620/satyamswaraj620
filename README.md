@@ -1,4 +1,5 @@
-                                                                                                                                                                                                           
+                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
                                       
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Java+Developer;Problem+Solver;Future+Software+Engineer;Welcome+To+My+GitHub+Profile+🚀" />
@@ -21,7 +22,7 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```java
-public class SatyamSwaraj {
+public class Satyam swaraj {
 
     String role = "Java Developer";
     String education = "Computer Science Student";
