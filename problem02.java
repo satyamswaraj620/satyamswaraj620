@@ -1,4 +1,4 @@
-
+/* 
 //Write a program to sum three numbers in Java.
 import java.util.Scanner;
 public class problem02{
@@ -18,10 +18,10 @@ public class problem02{
         System.out.println( "THE SUM OF THREE NUMBER  IS " + sum);
     
     }
-    }
+    }  */
 
 //Write a program to calculate CGPA using marks of three subjects (out of 100)
- /* 
+ 
 import java.util.Scanner;
 public class problem02{
     public static void main(String[] args){
@@ -46,7 +46,7 @@ public class problem02{
     //    System.out.println(p);
 
     }
-}  */
+}  
 //Write a Java program that asks the user to enter his/her name and greets them with “Hello <name>, have a good day” text.
 
     // import java.util.Scanner; 
