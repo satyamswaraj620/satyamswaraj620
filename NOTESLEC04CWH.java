@@ -1,6 +1,6 @@
 //package com.company;
 import java.util.Scanner;
-
+    
 public class NOTESLEC04CWH {
     public static void main(String[] args) {
         System.out.println("Taking Input From the User");
