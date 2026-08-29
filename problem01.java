@@ -6,7 +6,7 @@ public class problem01 {
         System.out.println("ENTER Math marks");
         int math = sc.nextInt();
         
-        System.out.println("ENTER English marks");
+                 System.out.println("ENTER English marks");
          int english = sc.nextInt();
 
          System.out.println("ENTER PHYSICS MARKS");
