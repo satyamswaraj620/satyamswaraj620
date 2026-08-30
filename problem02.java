@@ -39,7 +39,7 @@ public class problem02{
           int TOTAL = math +eng + phy ;
            
           double p = TOTAL/300.0;
-        double percentage = p*100;
+                 double percentage = p*100;
            double CGP = percentage/9.5;
 
        System.out.println( "YOUR CGP IN FIRST SEMESTER IS " + CGP );
