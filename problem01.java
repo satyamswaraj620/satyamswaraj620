@@ -4,7 +4,7 @@ public class problem01 {
         
         Scanner sc = new Scanner(System.in);
         System.out.println("ENTER Math marks");
-        int math = sc.nextInt();
+                 int math = sc.nextInt();
         
                  System.out.println("ENTER English marks");
          int english = sc.nextInt();
