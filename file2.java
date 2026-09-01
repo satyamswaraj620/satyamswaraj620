@@ -71,7 +71,7 @@
 //  // int class = 12; // why in this line the red alert is showing..? reason
 //  // String schoolname = "CCDS";
   
-//  // System.out.print("My name is " + name);
+//                       // System.out.print("My name is " + name);
        
 //      /*    System.out.print(" ");  
 // System.out.print(" ");  
