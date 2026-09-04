@@ -12,7 +12,7 @@ System.out.print("i live in "+" "+place);
 }*/
 
 
-
+              
 // long(variable)=isko humlog bara number store karne ke liyeuse karte hai
 //The correct syntax to declare a long variable is (data type)long (variable name)num = (value)954200L;
 
