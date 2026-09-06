@@ -1,5 +1,5 @@
 /*
-Operators in java
+             Operators in java
 what is operators in math..?  + - * / 
 
 7/3 = 
