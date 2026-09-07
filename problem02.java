@@ -23,7 +23,7 @@ public class problem02{
 //Write a program to calculate CGPA using marks of three subjects (out of 100)
                
                          import java.util.Scanner;
-public class problem02{
+             public class problem02{
     public static void main(String[] args){
          Scanner sc = new Scanner(System.in);
          System.out.println("ENTER MATH MARKS");
