@@ -1,4 +1,4 @@
-/* 
+/*             
 //Write a program to sum three numbers in Java.
 import java.util.Scanner;
 public class problem02{
