@@ -1,4 +1,4 @@
-/*class practicefile{
+      /*class practicefile{
       public static void main(String args[]){
 int standard = 12;
 String name = "Satyam swaraj";
