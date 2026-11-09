@@ -10,7 +10,7 @@
          int english = sc.nextInt();
 
          System.out.println("ENTER PHYSICS MARKS");
-         int physicsMarks = sc.nextInt(); 
+                      int physicsMarks = sc.nextInt(); 
            
          System.out.println("ENTER CHEMISTRY MARKS");
          int chemistryMarks = sc.nextInt();
